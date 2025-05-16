@@ -51,7 +51,7 @@ Kitchen-Genie/
    ```bash
    git clone https://github.com/your-username/kitchen-genie.git
    cd kitchen-genie
-````
+``
 
 2. **Create and Activate a Virtual Environment**
 
